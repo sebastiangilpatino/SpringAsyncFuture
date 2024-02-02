@@ -1,4 +1,4 @@
-package com.example.async;
+package com.example.async.service;
 
 import java.util.concurrent.CompletableFuture;
 
